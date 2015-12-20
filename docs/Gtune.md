@@ -31,7 +31,7 @@ You will see the results in the GUI - the tuning results will only be saved if y
 
 TPA and G-Tune: It is not tested and will most likely not result into something good. However G-Tune might be able to replace TPA for you.
 
-#A typical use may go in this order:
+A typical use may go in this order:
 
 * 1 -Arm the copter
 * 2 -Enable G-tune
