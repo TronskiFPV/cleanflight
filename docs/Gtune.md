@@ -33,14 +33,14 @@ TPA and G-Tune: It is not tested and will most likely not result into something 
 
 #A typical use may go in this order:
 
-* 1 Arm the copter
-* 2 Enable G-tune
-* 3 Fly
-* 4 Do a few (2-4) air jumps (aka punch outs) and fly around a bit. Take note if each punch out seems to become smoother with less oscillation and the overall flight performance
-* 5 Land 
-* 6 Disarm the copter, but don’t power down. Put the transmitter in a safe place where the aircraft will not be armed u inintentionally as you are near it. 
-* 7 Connect cleanflight configurator. Examine the PIDs that have changed and take into consideration how it flew. If these are desired results, save the configuration. If the results are not desired look into changing the parameters as shown below and try again. 
-* 8 Power down copter. 
+* 1 -Arm the copter
+* 2 -Enable G-tune
+* 3 -Fly
+* 4 -Do a few (2-4) air jumps (aka punch outs) and fly around a bit. Take note if each punch out seems to become smoother with less oscillation and the overall flight performance
+* 5 -Land 
+* 6 -Disarm the copter, but don’t power down. Put the transmitter in a safe place where the aircraft will not be armed u intentionally as you are near it. 
+* 7 -Connect cleanflight configurator. Examine the PIDs that have changed and take into consideration how it flew. If these are desired results, save the configuration. If the results are not desired look into changing the parameters as shown below and try again. 
+* 8 -Power down copter. 
 
 ## Parameters and their function:
 
